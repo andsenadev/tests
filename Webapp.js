@@ -1,1 +1,1 @@
-console.log
+console.log("Iniciando em programação com GITHUB")
